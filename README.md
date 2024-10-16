@@ -3,12 +3,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=A7medEmbaby&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medEmbaby&layout=compact&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=A7medEmbaby&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=A7medEmbaby&color=blue)
 
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=A7medEmbaby&theme=onedark)
-
-##
-![Snake animation](https://github.com/A7medEmbaby/A7medEmbaby/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -25,7 +23,7 @@ I specialize in building scalable and high-performance web applications with **A
 ### 🧑‍💻 Tech Skills
 - **Languages:** C#, T-SQL
 - **Frameworks:** .NET Core, ASP.NET Core Web API, Entity Framework Core
-- **Tools:** Visual Studio, Git, Postman, Swagger, AutoMapper
+- **Tools:** Visual Studio, Git, Postman, Swagger
 - **Concepts:** SOLID Principles, Design Patterns, OOP, RESTful APIs, API Security
 
 ---
