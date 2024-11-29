@@ -1,11 +1,5 @@
 # 👋 Hello, I'm Ahmed!
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=A7medEmbaby&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=A7medEmbaby&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medEmbaby&layout=compact&theme=radical)
-![](https://komarev.com/ghpvc/?username=A7medEmbaby&color=blue)
 
 ---
 
